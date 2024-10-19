@@ -7,6 +7,8 @@ Key Features
 Task Input: Users can enter a task description and select its priority level.
 Edit Tasks: Modify existing tasks and their priority through user-friendly prompts.
 Delete Tasks: Remove tasks with a confirmation alert to prevent accidental deletions.
+
+
 Priority Management: Tasks are categorized into High, Medium, and Low priorities, allowing users to focus on urgent tasks.
 Managing Priority Levels
 Tasks are assigned priority levels via a dropdown menu during the task creation process. Each task is stored with its corresponding priority, enabling users to filter and view tasks based on urgency. The application utilizes the getTasksByPriority function to organize tasks into their respective sections for easier management.
